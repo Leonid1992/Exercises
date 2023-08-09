@@ -10,6 +10,5 @@ public class Main {
         System.out.println("bark : " + "bark".matches(regex));
         System.out.println("Lark : " + "Lark".matches(regex));
         System.out.println("stark : " + "stark".matches(regex));
-
     }
 }
