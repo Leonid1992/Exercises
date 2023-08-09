@@ -15,6 +15,5 @@ public  class Main {
         Character lastPart = inputStrip.charAt(inputStrip.length()-1);
         System.out.println(lastPart);
         System.out.println(firstPart + lastPart.toString().toUpperCase());
-
     }
 }
